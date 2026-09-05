@@ -1,0 +1,6 @@
+{
+  "name": "TheKidsNest — Washable Cloth Diapers",
+  "description": "Soft, reusable, washable cloth diapers for happy babies and a happier planet. Preview and order directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
